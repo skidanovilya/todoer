@@ -5,7 +5,7 @@ To install using composer
 
 ```bash
 $ cd /var/www/
-$ git clone ###
+$ git clone https://github.com/skidanovilya/todoer.git
 $ composer update
 ```
 
