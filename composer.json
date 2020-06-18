@@ -1,0 +1,16 @@
+{
+    "name": "skidanovilya/torjaphp",
+    "description": "Simple PHP framework built for test task",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Skidanov Ilia",
+            "email": "skidanov.ilia@yandex.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"TorjaPHP\\" : "app/"}
+    }
+}
